@@ -2,9 +2,11 @@
 
 [![The Rebuild of the World Wide Web](https://worldwideweb.cern.ch/images/www_project.png)](https://worldwideweb.cern.ch)
 
+## Project info
+
 In February 2019, in celebration of the thirtieth anniversary of the World Wide Web, a team of developers and designers met at [CERN](https://www.cern.ch) to rebuild the original WorldWideWeb browser within a contemporary browser. 
 
-The original WorldWideWeb browser was developed in 1990 on a [NeXT machine](https://en.wikipedia.org/wiki/NeXT_Computer), and recreating the entirely text-based experience would require the “jaggies” of the bitmap fonts used by the [NeXTSTEP operating system](https://en.wikipedia.org/wiki/NeXTSTEP). Attempts to remove `font-smoothing` from contemporary fonts did not get close enough to the original’s look and feel, so the team created the *CERN-www* family of pixel fonts, meticulously vectorized by hand to simulate the typography of the original WorldWideWeb.
+The original WorldWideWeb browser was developed in 1990 on a [NeXT machine](https://en.wikipedia.org/wiki/NeXT_Computer), and recreating the entirely text-based experience would require the “jaggies” of the bitmap fonts used by the [NeXTSTEP operating system](https://en.wikipedia.org/wiki/NeXTSTEP). Attempts to remove `font-smoothing` from contemporary fonts did not get close enough to the original’s look and feel, so the team created the **CERN-www** family of pixel fonts, meticulously vectorized by hand to simulate the typography of the original WorldWideWeb.
 
 The original sans serif fonts on the NeXT were versions of [Helvetica](https://fontsinuse.com/typefaces/44/helvetica), and the monospace was Ohlfs, designed by Keith Ohlfs.
 
