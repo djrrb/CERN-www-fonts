@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="1">
+  <advance width="750"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <component base="block"/>
+    <component base="block" xOffset="75" yOffset="75"/>
+    <component base="block" xOffset="150" yOffset="150"/>
+    <component base="block" xOffset="150" yOffset="300"/>
+    <component base="block" xOffset="150" yOffset="375"/>
+    <component base="block" xOffset="150" yOffset="450"/>
+    <component base="block" xOffset="150" yOffset="600"/>
+    <component base="block" xOffset="225" yOffset="225"/>
+    <component base="block" xOffset="225" yOffset="525"/>
+    <component base="block" xOffset="225" yOffset="600"/>
+    <component base="block" xOffset="225" yOffset="675"/>
+    <component base="block" xOffset="300" yOffset="300"/>
+    <component base="block" xOffset="375" yOffset="375"/>
+    <component base="block" xOffset="450"/>
+    <component base="block" xOffset="450" yOffset="300"/>
+    <component base="block" xOffset="450" yOffset="450"/>
+    <component base="block" xOffset="525"/>
+    <component base="block" xOffset="525" yOffset="75"/>
+    <component base="block" xOffset="525" yOffset="375"/>
+    <component base="block" xOffset="525" yOffset="525"/>
+    <component base="block" xOffset="600"/>
+    <component base="block" xOffset="600" yOffset="150"/>
+    <component base="block" xOffset="600" yOffset="375"/>
+    <component base="block" xOffset="600" yOffset="600"/>
+    <component base="block" xOffset="675"/>
+    <component base="block" xOffset="675" yOffset="225"/>
+    <component base="block" xOffset="675" yOffset="300"/>
+    <component base="block" xOffset="675" yOffset="375"/>
+    <component base="block" xOffset="675" yOffset="675"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>brightness</key>
+              <integer>0</integer>
+              <key>contrast</key>
+              <integer>1</integer>
+              <key>path</key>
+              <string>/Users/david/Desktop/Screen Shot 2019-02-13 at 2.30.22 PM.png</string>
+              <key>saturation</key>
+              <integer>1</integer>
+              <key>sharpness</key>
+              <real>0.4</real>
+              <key>transform</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>-9543</integer>
+                <integer>-40</integer>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>onehalf</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>750</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

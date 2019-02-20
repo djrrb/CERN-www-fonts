@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="1">
+  <advance width="525"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <component base="block" yOffset="375"/>
+    <component base="block" xOffset="75" yOffset="375"/>
+    <component base="block" xOffset="150" yOffset="375"/>
+    <component base="block" xOffset="225" yOffset="375"/>
+    <component base="block" xOffset="300" yOffset="375"/>
+    <component base="block" xOffset="375" yOffset="150"/>
+    <component base="block" xOffset="375" yOffset="225"/>
+    <component base="block" xOffset="375" yOffset="300"/>
+    <component base="block" xOffset="375" yOffset="375"/>
+  </outline>
+</glyph>

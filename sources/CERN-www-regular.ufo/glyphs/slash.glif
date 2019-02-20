@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash" format="1">
+  <advance width="525"/>
+  <unicode hex="002F"/>
+  <outline>
+    <component base="block" xOffset="75"/>
+    <component base="block" xOffset="150" yOffset="75"/>
+    <component base="block" xOffset="150" yOffset="150"/>
+    <component base="block" xOffset="225" yOffset="225"/>
+    <component base="block" xOffset="225" yOffset="300"/>
+    <component base="block" xOffset="300" yOffset="375"/>
+    <component base="block" xOffset="300" yOffset="450"/>
+    <component base="block" xOffset="375" yOffset="525"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <advance width="225"/>
+  <unicode hex="0131"/>
+  <outline>
+    <component base="block" xOffset="75"/>
+    <component base="block" xOffset="75" yOffset="75"/>
+    <component base="block" xOffset="75" yOffset="150"/>
+    <component base="block" xOffset="75" yOffset="225"/>
+    <component base="block" xOffset="75" yOffset="300"/>
+    <component base="block" xOffset="75" yOffset="375"/>
+    <component base="block" xOffset="75" yOffset="450"/>
+  </outline>
+</glyph>

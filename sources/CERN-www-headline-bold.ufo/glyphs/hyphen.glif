@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="1">
+  <advance width="350"/>
+  <unicode hex="002D"/>
+  <outline>
+    <component base="block" xOffset="50" yOffset="200"/>
+    <component base="block" xOffset="100" yOffset="200"/>
+    <component base="block" xOffset="150" yOffset="200"/>
+    <component base="block" xOffset="200" yOffset="200"/>
+    <component base="block" xOffset="250" yOffset="200"/>
+    <component base="block" xOffset="250" yOffset="250"/>
+    <component base="block" xOffset="200" yOffset="250"/>
+    <component base="block" xOffset="150" yOffset="250"/>
+    <component base="block" xOffset="100" yOffset="250"/>
+    <component base="block" xOffset="50" yOffset="250"/>
+  </outline>
+</glyph>

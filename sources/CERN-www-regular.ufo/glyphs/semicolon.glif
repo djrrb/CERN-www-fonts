@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="300"/>
+  <unicode hex="003B"/>
+  <outline>
+    <component base="block" xOffset="75" yOffset="-150"/>
+    <component base="block" xOffset="150" yOffset="-75"/>
+    <component base="block" xOffset="150"/>
+    <component base="block" xOffset="150" yOffset="375"/>
+  </outline>
+</glyph>

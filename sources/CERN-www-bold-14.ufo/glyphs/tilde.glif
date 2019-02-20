@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="525"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <component base="block" xOffset="75" yOffset="675"/>
+    <component base="block" xOffset="150" yOffset="750"/>
+    <component base="block" xOffset="225" yOffset="675"/>
+    <component base="block" xOffset="225" yOffset="750"/>
+    <component base="block" xOffset="300" yOffset="675"/>
+    <component base="block" xOffset="375" yOffset="750"/>
+  </outline>
+</glyph>

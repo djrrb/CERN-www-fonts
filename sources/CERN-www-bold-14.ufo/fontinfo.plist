@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>825</integer>
+	<key>capHeight</key>
+	<integer>825</integer>
+	<key>copyright</key>
+	<string>Copyright CERN and the CERN-www project authors.</string>
+	<key>descender</key>
+	<integer>-225</integer>
+	<key>familyName</key>
+	<string>CERN-www 14</string>
+	<key>openTypeNameDescription</key>
+	<string>In December 1990, an application called WorldWideWeb was developed on a CERN-www machine at The European Organization for Nuclear Research (known as CERN) just outside of Geneva. This program, WorldWideWeb, is the antecedent of most of what we consider or know of as "the web" today.
+
+In February 2019, in celebration of the thirtieth anniversary of the development of WorldWideWeb, a group of developers and designers convened at CERN to rebuild the original browser within a contemporary browser, allowing users around the world to experience the origins of this transformative technology.</string>
+	<key>openTypeNameDesigner</key>
+	<string>Mark Boulton, Brian Suda, David Jonathan Ross</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>https://worldwideweb.cern.ch</string>
+	<key>openTypeNameManufacturer</key>
+	<string>DJR</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>https://djr.com</string>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+	</array>
+	<key>openTypeOS2Panose</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>9</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>219</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>49</integer>
+	<key>openTypeOS2SubscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SubscriptXSize</key>
+	<integer>633</integer>
+	<key>openTypeOS2SubscriptYOffset</key>
+	<integer>-73</integer>
+	<key>openTypeOS2SubscriptYSize</key>
+	<integer>585</integer>
+	<key>openTypeOS2SuperscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SuperscriptXSize</key>
+	<integer>633</integer>
+	<key>openTypeOS2SuperscriptYOffset</key>
+	<integer>341</integer>
+	<key>openTypeOS2SuperscriptYSize</key>
+	<integer>585</integer>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>2</integer>
+	</array>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>2</integer>
+		<integer>5</integer>
+		<integer>7</integer>
+		<integer>31</integer>
+		<integer>38</integer>
+		<integer>62</integer>
+	</array>
+	<key>openTypeOS2WeightClass</key>
+	<integer>700</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Bold</string>
+	<key>unitsPerEm</key>
+	<integer>1050</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>600</integer>
+	<key>year</key>
+	<integer>2019</integer>
+</dict>
+</plist>

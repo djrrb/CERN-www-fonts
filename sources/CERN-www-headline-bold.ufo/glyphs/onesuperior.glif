@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="1">
+  <advance width="300"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <component base="block" xOffset="50" yOffset="550"/>
+    <component base="block" xOffset="50" yOffset="500"/>
+    <component base="block" xOffset="100" yOffset="500"/>
+    <component base="block" xOffset="100" yOffset="550"/>
+    <component base="block" xOffset="150" yOffset="550"/>
+    <component base="block" xOffset="150" yOffset="600"/>
+    <component base="block" xOffset="150" yOffset="500"/>
+    <component base="block" xOffset="150" yOffset="450"/>
+    <component base="block" xOffset="150" yOffset="400"/>
+    <component base="block" xOffset="150" yOffset="350"/>
+    <component base="block" xOffset="150" yOffset="300"/>
+    <component base="block" xOffset="150" yOffset="250"/>
+    <component base="block" xOffset="200" yOffset="250"/>
+    <component base="block" xOffset="200" yOffset="300"/>
+    <component base="block" xOffset="200" yOffset="350"/>
+    <component base="block" xOffset="200" yOffset="400"/>
+    <component base="block" xOffset="200" yOffset="450"/>
+    <component base="block" xOffset="200" yOffset="500"/>
+    <component base="block" xOffset="200" yOffset="550"/>
+    <component base="block" xOffset="200" yOffset="600"/>
+  </outline>
+</glyph>

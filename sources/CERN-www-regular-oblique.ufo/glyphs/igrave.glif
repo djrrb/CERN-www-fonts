@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave" format="1">
+  <advance width="225"/>
+  <unicode hex="00EC"/>
+  <outline>
+    <component base="block"/>
+    <component base="block" yOffset="75"/>
+    <component base="block" xOffset="75" yOffset="150"/>
+    <component base="block" xOffset="75" yOffset="225"/>
+    <component base="block" xOffset="75" yOffset="300"/>
+    <component base="block" xOffset="75" yOffset="675"/>
+    <component base="block" xOffset="150" yOffset="375"/>
+    <component base="block" xOffset="150" yOffset="450"/>
+    <component base="block" xOffset="150" yOffset="600"/>
+  </outline>
+</glyph>

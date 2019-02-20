@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="1">
+  <advance width="350"/>
+  <unicode hex="2022"/>
+  <outline>
+    <component base="block" xOffset="50" yOffset="350"/>
+    <component base="block" xOffset="50" yOffset="300"/>
+    <component base="block" xOffset="50" yOffset="250"/>
+    <component base="block" xOffset="100" yOffset="250"/>
+    <component base="block" xOffset="100" yOffset="200"/>
+    <component base="block" xOffset="100" yOffset="300"/>
+    <component base="block" xOffset="100" yOffset="350"/>
+    <component base="block" xOffset="150" yOffset="350"/>
+    <component base="block" xOffset="150" yOffset="300"/>
+    <component base="block" xOffset="150" yOffset="250"/>
+    <component base="block" xOffset="150" yOffset="200"/>
+    <component base="block" xOffset="200" yOffset="200"/>
+    <component base="block" xOffset="200" yOffset="250"/>
+    <component base="block" xOffset="200" yOffset="400"/>
+    <component base="block" xOffset="150" yOffset="400"/>
+    <component base="block" xOffset="100" yOffset="400"/>
+    <component base="block" xOffset="200" yOffset="350"/>
+    <component base="block" xOffset="200" yOffset="300"/>
+    <component base="block" xOffset="250" yOffset="250"/>
+    <component base="block" xOffset="250" yOffset="350"/>
+    <component base="block" xOffset="250" yOffset="300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.9999</real>
+        <real>0.041</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

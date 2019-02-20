@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresis" format="1">
+  <advance width="525"/>
+  <unicode hex="00FC"/>
+  <outline>
+    <component base="block" xOffset="75" yOffset="75"/>
+    <component base="block" xOffset="75" yOffset="150"/>
+    <component base="block" xOffset="75" yOffset="225"/>
+    <component base="block" xOffset="75" yOffset="300"/>
+    <component base="block" xOffset="75" yOffset="375"/>
+    <component base="block" xOffset="75" yOffset="450"/>
+    <component base="block" xOffset="150"/>
+    <component base="block" xOffset="150" yOffset="600"/>
+    <component base="block" xOffset="225"/>
+    <component base="block" xOffset="300" yOffset="75"/>
+    <component base="block" xOffset="300" yOffset="600"/>
+    <component base="block" xOffset="375"/>
+    <component base="block" xOffset="375" yOffset="75"/>
+    <component base="block" xOffset="375" yOffset="150"/>
+    <component base="block" xOffset="375" yOffset="225"/>
+    <component base="block" xOffset="375" yOffset="300"/>
+    <component base="block" xOffset="375" yOffset="375"/>
+    <component base="block" xOffset="375" yOffset="450"/>
+  </outline>
+</glyph>

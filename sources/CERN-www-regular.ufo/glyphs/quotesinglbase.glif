@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesinglbase" format="1">
+  <advance width="300"/>
+  <unicode hex="201A"/>
+  <outline>
+    <component base="block" xOffset="75" yOffset="-150"/>
+    <component base="block" xOffset="75"/>
+    <component base="block" xOffset="150" yOffset="-75"/>
+    <component base="block" xOffset="150"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.9999</real>
+        <real>0.041</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

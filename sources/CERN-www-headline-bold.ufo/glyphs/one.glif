@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one" format="1">
+  <advance width="550.0"/>
+  <unicode hex="0031"/>
+  <outline>
+    <component base="block" xOffset="100" yOffset="500"/>
+    <component base="block" xOffset="100" yOffset="450"/>
+    <component base="block" xOffset="150" yOffset="450"/>
+    <component base="block" xOffset="150" yOffset="500"/>
+    <component base="block" xOffset="200" yOffset="500"/>
+    <component base="block" xOffset="200" yOffset="450"/>
+    <component base="block" xOffset="250" yOffset="500"/>
+    <component base="block" xOffset="200" yOffset="550"/>
+    <component base="block" xOffset="250" yOffset="550"/>
+    <component base="block" xOffset="250" yOffset="600"/>
+    <component base="block" xOffset="300" yOffset="600"/>
+    <component base="block" xOffset="350" yOffset="600"/>
+    <component base="block" xOffset="350" yOffset="550"/>
+    <component base="block" xOffset="300" yOffset="550"/>
+    <component base="block" xOffset="300" yOffset="500"/>
+    <component base="block" xOffset="300" yOffset="450"/>
+    <component base="block" xOffset="250" yOffset="450"/>
+    <component base="block" xOffset="350" yOffset="500"/>
+    <component base="block" xOffset="350" yOffset="450"/>
+    <component base="block" xOffset="350" yOffset="400"/>
+    <component base="block" xOffset="300" yOffset="400"/>
+    <component base="block" xOffset="250" yOffset="400"/>
+    <component base="block" xOffset="250" yOffset="350"/>
+    <component base="block" xOffset="300" yOffset="350"/>
+    <component base="block" xOffset="350" yOffset="350"/>
+    <component base="block" xOffset="350" yOffset="300"/>
+    <component base="block" xOffset="300" yOffset="300"/>
+    <component base="block" xOffset="250" yOffset="300"/>
+    <component base="block" xOffset="250" yOffset="250"/>
+    <component base="block" xOffset="300" yOffset="250"/>
+    <component base="block" xOffset="350" yOffset="250"/>
+    <component base="block" xOffset="350" yOffset="200"/>
+    <component base="block" xOffset="300" yOffset="200"/>
+    <component base="block" xOffset="250" yOffset="200"/>
+    <component base="block" xOffset="250" yOffset="150"/>
+    <component base="block" xOffset="300" yOffset="150"/>
+    <component base="block" xOffset="350" yOffset="150"/>
+    <component base="block" xOffset="350" yOffset="100"/>
+    <component base="block" xOffset="300" yOffset="100"/>
+    <component base="block" xOffset="250" yOffset="100"/>
+    <component base="block" xOffset="250" yOffset="50"/>
+    <component base="block" xOffset="300" yOffset="50"/>
+    <component base="block" xOffset="350" yOffset="50"/>
+    <component base="block" xOffset="350"/>
+    <component base="block" xOffset="300"/>
+    <component base="block" xOffset="250"/>
+  </outline>
+</glyph>

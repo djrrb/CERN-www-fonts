@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="1">
+  <advance width="600"/>
+  <unicode hex="0048"/>
+  <outline>
+    <component base="block"/>
+    <component base="block" yOffset="100"/>
+    <component base="block" yOffset="200"/>
+    <component base="block" yOffset="300"/>
+    <component base="block" yOffset="400"/>
+    <component base="block" yOffset="500"/>
+    <component base="block" yOffset="600"/>
+    <component base="block" yOffset="700"/>
+    <component base="block" xOffset="100" yOffset="400"/>
+    <component base="block" xOffset="200" yOffset="400"/>
+    <component base="block" xOffset="300" yOffset="400"/>
+    <component base="block" xOffset="400"/>
+    <component base="block" xOffset="400" yOffset="100"/>
+    <component base="block" xOffset="400" yOffset="200"/>
+    <component base="block" xOffset="400" yOffset="300"/>
+    <component base="block" xOffset="400" yOffset="400"/>
+    <component base="block" xOffset="400" yOffset="500"/>
+    <component base="block" xOffset="400" yOffset="600"/>
+    <component base="block" xOffset="400" yOffset="700"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>brightness</key>
+              <integer>0</integer>
+              <key>contrast</key>
+              <integer>1</integer>
+              <key>path</key>
+              <string>/var/folders/pw/s1l1bh2d0c559xgnrxlndqpm0000gq/T/tmpyeLt5M</string>
+              <key>saturation</key>
+              <integer>1</integer>
+              <key>sharpness</key>
+              <real>0.4</real>
+              <key>transform</key>
+              <array>
+                <real>50.00480977923857</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>50.004809779238464</real>
+                <real>-58750.0</real>
+                <real>0.0</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>H</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>600</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash" format="1">
+  <advance width="1050"/>
+  <unicode hex="2014"/>
+  <outline>
+    <component base="block" yOffset="300"/>
+    <component base="block" xOffset="75" yOffset="300"/>
+    <component base="block" xOffset="150" yOffset="300"/>
+    <component base="block" xOffset="225" yOffset="300"/>
+    <component base="block" xOffset="300" yOffset="300"/>
+    <component base="block" xOffset="375" yOffset="300"/>
+    <component base="block" xOffset="450" yOffset="300"/>
+    <component base="block" xOffset="525" yOffset="300"/>
+    <component base="block" xOffset="600" yOffset="300"/>
+    <component base="block" xOffset="675" yOffset="300"/>
+    <component base="block" xOffset="750" yOffset="300"/>
+    <component base="block" xOffset="825" yOffset="300"/>
+    <component base="block" xOffset="900" yOffset="300"/>
+    <component base="block" xOffset="975" yOffset="300"/>
+  </outline>
+</glyph>
