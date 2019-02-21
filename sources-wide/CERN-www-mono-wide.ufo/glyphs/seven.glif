@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="660.0"/>
+  <unicode hex="0037"/>
+  <outline>
+    <component base="block" yOffset="600"/>
+    <component base="block" yOffset="700"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="700"/>
+    <component base="block" xOffset="220.00000000000003"/>
+    <component base="block" xOffset="220.00000000000003" yOffset="100"/>
+    <component base="block" xOffset="220.00000000000003" yOffset="200"/>
+    <component base="block" xOffset="220.00000000000003" yOffset="700"/>
+    <component base="block" xOffset="330.0" yOffset="300"/>
+    <component base="block" xOffset="330.0" yOffset="400"/>
+    <component base="block" xOffset="330.0" yOffset="700"/>
+    <component base="block" xOffset="440.00000000000006" yOffset="500"/>
+    <component base="block" xOffset="440.00000000000006" yOffset="600"/>
+    <component base="block" xOffset="440.00000000000006" yOffset="700"/>
+  </outline>
+</glyph>

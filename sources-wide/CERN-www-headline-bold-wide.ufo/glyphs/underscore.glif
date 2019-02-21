@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="1">
+  <advance width="550.0"/>
+  <unicode hex="005F"/>
+  <outline>
+    <component base="block" yOffset="-150"/>
+    <component base="block" yOffset="-200"/>
+    <component base="block" xOffset="55.00000000000001" yOffset="-200"/>
+    <component base="block" xOffset="55.00000000000001" yOffset="-150"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="-150"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="-200"/>
+    <component base="block" xOffset="165.0" yOffset="-150"/>
+    <component base="block" xOffset="165.0" yOffset="-200"/>
+    <component base="block" xOffset="220.00000000000003" yOffset="-200"/>
+    <component base="block" xOffset="220.00000000000003" yOffset="-150"/>
+    <component base="block" xOffset="275.0" yOffset="-200"/>
+    <component base="block" xOffset="330.0" yOffset="-200"/>
+    <component base="block" xOffset="330.0" yOffset="-150"/>
+    <component base="block" xOffset="275.0" yOffset="-150"/>
+    <component base="block" xOffset="385.00000000000006" yOffset="-150"/>
+    <component base="block" xOffset="385.00000000000006" yOffset="-200"/>
+    <component base="block" xOffset="440.00000000000006" yOffset="-200"/>
+    <component base="block" xOffset="440.00000000000006" yOffset="-150"/>
+    <component base="block" xOffset="495.00000000000006" yOffset="-200"/>
+    <component base="block" xOffset="495.00000000000006" yOffset="-150"/>
+  </outline>
+</glyph>

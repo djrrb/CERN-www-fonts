@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblright" format="1">
+  <advance width="660.0"/>
+  <unicode hex="201D"/>
+  <outline>
+    <component base="block" yOffset="700"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="600"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="700"/>
+    <component base="block" xOffset="330.0" yOffset="700"/>
+    <component base="block" xOffset="440.00000000000006" yOffset="600"/>
+    <component base="block" xOffset="440.00000000000006" yOffset="700"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

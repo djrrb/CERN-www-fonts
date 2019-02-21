@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="1">
+  <advance width="577.5"/>
+  <unicode hex="005F"/>
+  <outline>
+    <component base="block" yOffset="-150"/>
+    <component base="block" xOffset="82.5" yOffset="-150"/>
+    <component base="block" xOffset="165.0" yOffset="-150"/>
+    <component base="block" xOffset="247.50000000000003" yOffset="-150"/>
+    <component base="block" xOffset="330.0" yOffset="-150"/>
+    <component base="block" xOffset="412.50000000000006" yOffset="-150"/>
+    <component base="block" xOffset="495.00000000000006" yOffset="-150"/>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash" format="1">
+  <advance width="990.0000000000001"/>
+  <unicode hex="2014"/>
+  <outline>
+    <component base="block" yOffset="225"/>
+    <component base="block" xOffset="82.5" yOffset="225"/>
+    <component base="block" xOffset="165.0" yOffset="225"/>
+    <component base="block" xOffset="247.50000000000003" yOffset="225"/>
+    <component base="block" xOffset="330.0" yOffset="225"/>
+    <component base="block" xOffset="412.50000000000006" yOffset="225"/>
+    <component base="block" xOffset="495.00000000000006" yOffset="225"/>
+    <component base="block" xOffset="577.5" yOffset="225"/>
+    <component base="block" xOffset="660.0" yOffset="225"/>
+    <component base="block" xOffset="742.5000000000001" yOffset="225"/>
+    <component base="block" xOffset="825.0000000000001" yOffset="225"/>
+    <component base="block" xOffset="907.5000000000001" yOffset="225"/>
+  </outline>
+</glyph>

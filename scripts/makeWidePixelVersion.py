@@ -2,7 +2,9 @@ import os
 import shutil
 
 # how much wider
-multiplier = 1.2
+multiplier = 1.1
+# how much pixel overlap
+blockMultiplier = 1.35
 
 scriptsFolder = os.path.abspath(os.path.split(__file__)[0])
 sourcesFolder = os.path.join(os.path.split(scriptsFolder)[0], 'sources')
@@ -27,5 +29,13 @@ for filename in os.listdir(sourcesFolder):
             for c in g.contours:
                 c.scale((multiplier, 1))
             g.width *= multiplier
+        
+        g = f['block']
+        bxw = g.box[2]-g.box[0]
+        g.scale((blockMultiplier, 1))
+        bxw2 = g.box[2]-g.box[0]
+        diff = bxw2 - bxw
+        g.move((-diff/2, 0))
+        
         f.save()
         f.close()

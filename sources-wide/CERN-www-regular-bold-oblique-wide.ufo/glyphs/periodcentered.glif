@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="1">
+  <advance width="165.0"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <component base="block" yOffset="225"/>
+    <component base="block" yOffset="300"/>
+    <component base="block" xOffset="82.5" yOffset="225"/>
+    <component base="block" xOffset="82.5" yOffset="300"/>
+  </outline>
+</glyph>

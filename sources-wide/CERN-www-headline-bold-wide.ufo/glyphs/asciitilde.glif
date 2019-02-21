@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde" format="1">
+  <advance width="605.0"/>
+  <unicode hex="007E"/>
+  <outline>
+    <component base="block" xOffset="55.00000000000001" yOffset="200"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="200"/>
+    <component base="block" xOffset="55.00000000000001" yOffset="250"/>
+    <component base="block" xOffset="165.0" yOffset="250"/>
+    <component base="block" xOffset="220.00000000000003" yOffset="250"/>
+    <component base="block" xOffset="330.0" yOffset="250"/>
+    <component base="block" xOffset="385.00000000000006" yOffset="250"/>
+    <component base="block" xOffset="495.00000000000006" yOffset="250"/>
+    <component base="block" xOffset="495.00000000000006" yOffset="300"/>
+    <component base="block" xOffset="440.00000000000006" yOffset="250"/>
+    <component base="block" xOffset="440.00000000000006" yOffset="200"/>
+    <component base="block" xOffset="385.00000000000006" yOffset="200"/>
+    <component base="block" xOffset="330.0" yOffset="200"/>
+    <component base="block" xOffset="275.0" yOffset="200"/>
+    <component base="block" xOffset="275.0" yOffset="300"/>
+    <component base="block" xOffset="220.00000000000003" yOffset="300"/>
+    <component base="block" xOffset="165.0" yOffset="300"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="300"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="250"/>
+    <component base="block" xOffset="275.0" yOffset="250"/>
+    <component base="block" xOffset="440.00000000000006" yOffset="300"/>
+  </outline>
+</glyph>

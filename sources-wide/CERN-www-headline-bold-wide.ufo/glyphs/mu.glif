@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mu" format="1">
+  <advance width="605.0"/>
+  <unicode hex="03BC"/>
+  <outline>
+    <component base="u"/>
+    <component base="block" xOffset="55.00000000000001"/>
+    <component base="block" xOffset="55.00000000000001" yOffset="-50"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="-50"/>
+    <component base="block" xOffset="165.0" yOffset="-50"/>
+    <component base="block" xOffset="55.00000000000001" yOffset="-100"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="-100"/>
+    <component base="block" xOffset="165.0" yOffset="-100"/>
+    <component base="block" xOffset="165.0" yOffset="-150"/>
+    <component base="block" xOffset="55.00000000000001" yOffset="-150"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="-150"/>
+    <component base="block" xOffset="165.0" yOffset="-200"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="-200"/>
+    <component base="block" xOffset="55.00000000000001" yOffset="-200"/>
+  </outline>
+</glyph>

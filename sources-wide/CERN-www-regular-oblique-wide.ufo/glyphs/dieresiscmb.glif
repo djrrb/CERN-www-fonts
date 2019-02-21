@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscmb" format="1">
+  <advance width="247.50000000000003"/>
+  <outline>
+    <component base="dieresis" xOffset="-82.5" yOffset="75"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.9999</real>
+        <real>0.041</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

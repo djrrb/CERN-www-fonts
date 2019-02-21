@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave" format="1">
+  <advance width="660.0"/>
+  <unicode hex="00EC"/>
+  <outline>
+    <component base="block" xOffset="110.00000000000001"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="400"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="700"/>
+    <component base="block" xOffset="220.00000000000003"/>
+    <component base="block" xOffset="220.00000000000003" yOffset="100"/>
+    <component base="block" xOffset="220.00000000000003" yOffset="200"/>
+    <component base="block" xOffset="220.00000000000003" yOffset="300"/>
+    <component base="block" xOffset="220.00000000000003" yOffset="400"/>
+    <component base="block" xOffset="220.00000000000003" yOffset="600"/>
+    <component base="block" xOffset="330.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

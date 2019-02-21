@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="1">
+  <advance width="660.0"/>
+  <unicode hex="00D8"/>
+  <outline>
+    <component base="O"/>
+    <component base="block" xOffset="550.0" yOffset="700"/>
+    <component base="block" xOffset="-110.00000000000001"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

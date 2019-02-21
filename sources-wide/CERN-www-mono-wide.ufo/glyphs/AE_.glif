@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="660.0"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <component base="block" xOffset="-110.00000000000001"/>
+    <component base="block"/>
+    <component base="block" yOffset="100"/>
+    <component base="block" yOffset="200"/>
+    <component base="block" xOffset="110.00000000000001"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="200"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="300"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="400"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="500"/>
+    <component base="block" xOffset="220.00000000000003" yOffset="200"/>
+    <component base="block" xOffset="220.00000000000003" yOffset="500"/>
+    <component base="block" xOffset="220.00000000000003" yOffset="600"/>
+    <component base="block" xOffset="330.0"/>
+    <component base="block" xOffset="330.0" yOffset="100"/>
+    <component base="block" xOffset="330.0" yOffset="200"/>
+    <component base="block" xOffset="330.0" yOffset="300"/>
+    <component base="block" xOffset="330.0" yOffset="400"/>
+    <component base="block" xOffset="330.0" yOffset="500"/>
+    <component base="block" xOffset="330.0" yOffset="600"/>
+    <component base="block" xOffset="440.00000000000006"/>
+    <component base="block" xOffset="440.00000000000006" yOffset="300"/>
+    <component base="block" xOffset="440.00000000000006" yOffset="600"/>
+    <component base="block" xOffset="550.0"/>
+    <component base="block" xOffset="550.0" yOffset="600"/>
+    <component base="block" xOffset="550.0" yOffset="100"/>
+    <component base="block" xOffset="550.0" yOffset="500"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

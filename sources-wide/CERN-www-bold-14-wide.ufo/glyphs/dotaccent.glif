@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="1">
+  <advance width="330.0"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <component base="block" xOffset="82.5" yOffset="675"/>
+    <component base="block" xOffset="82.5" yOffset="750"/>
+    <component base="block" xOffset="165.0" yOffset="675"/>
+    <component base="block" xOffset="165.0" yOffset="750"/>
+  </outline>
+</glyph>

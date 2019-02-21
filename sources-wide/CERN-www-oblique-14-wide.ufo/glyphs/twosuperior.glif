@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twosuperior" format="1">
+  <advance width="412.50000000000006"/>
+  <unicode hex="00B2"/>
+  <outline>
+    <component base="block" xOffset="82.5" yOffset="300"/>
+    <component base="block" xOffset="82.5" yOffset="600"/>
+    <component base="block" xOffset="165.0" yOffset="300"/>
+    <component base="block" xOffset="165.0" yOffset="375"/>
+    <component base="block" xOffset="165.0" yOffset="675"/>
+    <component base="block" xOffset="247.50000000000003" yOffset="300"/>
+    <component base="block" xOffset="247.50000000000003" yOffset="450"/>
+    <component base="block" xOffset="247.50000000000003" yOffset="675"/>
+    <component base="block" xOffset="330.0" yOffset="300"/>
+    <component base="block" xOffset="330.0" yOffset="525"/>
+    <component base="block" xOffset="330.0" yOffset="600"/>
+    <component base="block" xOffset="330.0" yOffset="675"/>
+  </outline>
+</glyph>

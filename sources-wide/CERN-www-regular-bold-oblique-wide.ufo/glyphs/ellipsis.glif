@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="1">
+  <advance width="907.5000000000001"/>
+  <unicode hex="2026"/>
+  <outline>
+    <component base="block"/>
+    <component base="block" xOffset="82.5"/>
+    <component base="block" xOffset="330.0"/>
+    <component base="block" xOffset="412.50000000000006"/>
+    <component base="block" xOffset="660.0"/>
+    <component base="block" xOffset="742.5000000000001"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.9999</real>
+        <real>0.041</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

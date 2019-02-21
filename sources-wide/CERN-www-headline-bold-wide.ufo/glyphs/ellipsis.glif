@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="1">
+  <advance width="880.0000000000001"/>
+  <unicode hex="2026"/>
+  <outline>
+    <component base="block" xOffset="55.00000000000001"/>
+    <component base="block" xOffset="110.00000000000001"/>
+    <component base="block" xOffset="110.00000000000001" yOffset="50"/>
+    <component base="block" xOffset="55.00000000000001" yOffset="50"/>
+    <component base="block" xOffset="385.00000000000006" yOffset="50"/>
+    <component base="block" xOffset="385.00000000000006"/>
+    <component base="block" xOffset="440.00000000000006"/>
+    <component base="block" xOffset="440.00000000000006" yOffset="50"/>
+    <component base="block" xOffset="715.0000000000001" yOffset="50"/>
+    <component base="block" xOffset="715.0000000000001"/>
+    <component base="block" xOffset="770.0000000000001"/>
+    <component base="block" xOffset="770.0000000000001" yOffset="50"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.9999</real>
+        <real>0.041</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
