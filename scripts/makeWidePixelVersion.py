@@ -10,7 +10,7 @@ sourcesWideFolder = os.path.join(os.path.split(scriptsFolder)[0], 'sources-wide'
 shutil.copytree(sourcesFolder, sourcesWideFolder)
 for filename in os.listdir(sourcesWideFolder):
     if filename.endswith('.ufo'):
-        srcPath = os.path.join(sourcesFolder, filename)
+        srcPath = os.path.join(sourcesWideFolder, filename)
         path = os.path.join(sourcesWideFolder, filename.replace('.ufo', '-wide-pixel.ufo'))
         os.rename(srcPath, path)
         try:
