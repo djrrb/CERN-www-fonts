@@ -1,0 +1,5 @@
+.DS_Store
+*.pyc
+/sources/master_ttf
+/sources/master_otf
+/sources/variable_ttf
