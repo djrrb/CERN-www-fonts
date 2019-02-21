@@ -7,12 +7,13 @@ multiplier = 1.2
 scriptsFolder = os.path.abspath(os.path.split(__file__)[0])
 sourcesFolder = os.path.join(os.path.split(scriptsFolder)[0], 'sources')
 sourcesWideFolder = os.path.join(os.path.split(scriptsFolder)[0], 'sources-wide')
-shutil.copytree(sourcesFolder, sourcesWideFolder)
-for filename in os.listdir(sourcesWideFolder):
+if not os.path.exists(sourcesWideFolder):
+    os.mkdir(sourcesWideFolder)
+for filename in os.listdir(sourcesFolder):
     if filename.endswith('.ufo'):
-        srcPath = os.path.join(sourcesWideFolder, filename)
-        path = os.path.join(sourcesWideFolder, filename.replace('.ufo', '-wide-pixel.ufo'))
-        os.rename(srcPath, path)
+        srcPath = os.path.join(sourcesFolder, filename)
+        path = os.path.join(sourcesWideFolder, filename.replace('.ufo', '-wide.ufo'))
+        shutil.copytree(srcPath, path)
         try:
             f = OpenFont(path, showInterface=False)
         except:
