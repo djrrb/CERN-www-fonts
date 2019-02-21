@@ -28,53 +28,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-            <key>com.typemytype.robofont.image</key>
-            <dict>
-              <key>brightness</key>
-              <integer>0</integer>
-              <key>contrast</key>
-              <integer>1</integer>
-              <key>path</key>
-              <string>/Users/david/Desktop/Screen Shot 2019-02-13 at 2.30.22 PM.png</string>
-              <key>saturation</key>
-              <integer>1</integer>
-              <key>sharpness</key>
-              <real>0.4</real>
-              <key>transform</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>-49823</integer>
-                <integer>-40</integer>
-              </array>
-            </dict>
-          </dict>
-          <key>name</key>
-          <string>onequarter</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>600.0</real>
-        </dict>
-      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>

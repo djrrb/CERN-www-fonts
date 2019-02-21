@@ -2269,28 +2269,6 @@
           </array>
           <key>lib</key>
           <dict>
-            <key>com.typemytype.robofont.image</key>
-            <dict>
-              <key>brightness</key>
-              <integer>0</integer>
-              <key>contrast</key>
-              <integer>1</integer>
-              <key>path</key>
-              <string>/Users/david/Desktop/Screen Shot 2019-02-13 at 12.56.16 PM.png</string>
-              <key>saturation</key>
-              <integer>1</integer>
-              <key>sharpness</key>
-              <real>0.4</real>
-              <key>transform</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>18</integer>
-                <integer>-217</integer>
-              </array>
-            </dict>
           </dict>
           <key>name</key>
           <string>registered</string>
