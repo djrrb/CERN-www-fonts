@@ -2,4 +2,5 @@
 *.pyc
 /sources/master_ttf
 /sources/master_otf
+/sources/master_web
 /sources/variable_ttf
