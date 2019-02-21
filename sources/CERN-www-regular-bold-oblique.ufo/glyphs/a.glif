@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="a" format="1">
-  <advance width="525"/>
+  <advance width="450"/>
   <unicode hex="0061"/>
   <outline>
+    <component base="block" xOffset="-75"/>
+    <component base="block" xOffset="-75" yOffset="75"/>
+    <component base="block" xOffset="-75" yOffset="150"/>
     <component base="block"/>
-    <component base="block" yOffset="75"/>
     <component base="block" yOffset="150"/>
+    <component base="block" yOffset="225"/>
+    <component base="block" yOffset="375"/>
     <component base="block" xOffset="75"/>
-    <component base="block" xOffset="75" yOffset="150"/>
     <component base="block" xOffset="75" yOffset="225"/>
     <component base="block" xOffset="75" yOffset="375"/>
-    <component base="block" xOffset="150"/>
+    <component base="block" xOffset="75" yOffset="450"/>
+    <component base="block" xOffset="150" yOffset="75"/>
     <component base="block" xOffset="150" yOffset="225"/>
-    <component base="block" xOffset="150" yOffset="375"/>
     <component base="block" xOffset="150" yOffset="450"/>
+    <component base="block" xOffset="225"/>
     <component base="block" xOffset="225" yOffset="75"/>
+    <component base="block" xOffset="225" yOffset="150"/>
     <component base="block" xOffset="225" yOffset="225"/>
     <component base="block" xOffset="225" yOffset="450"/>
     <component base="block" xOffset="300"/>
-    <component base="block" xOffset="300" yOffset="75"/>
     <component base="block" xOffset="300" yOffset="150"/>
     <component base="block" xOffset="300" yOffset="225"/>
+    <component base="block" xOffset="300" yOffset="300"/>
+    <component base="block" xOffset="300" yOffset="375"/>
     <component base="block" xOffset="300" yOffset="450"/>
-    <component base="block" xOffset="375"/>
-    <component base="block" xOffset="375" yOffset="150"/>
-    <component base="block" xOffset="375" yOffset="225"/>
     <component base="block" xOffset="375" yOffset="300"/>
     <component base="block" xOffset="375" yOffset="375"/>
-    <component base="block" xOffset="375" yOffset="450"/>
-    <component base="block" xOffset="450" yOffset="300"/>
-    <component base="block" xOffset="450" yOffset="375"/>
   </outline>
 </glyph>
