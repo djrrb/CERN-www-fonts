@@ -14,9 +14,6 @@ Team members [Mark Boulton](http://markboulton.co.uk) and [Brian Suda](https://s
 
 As team member [Remy Sharp said](https://remysharp.com/2019/02/15/cern-day-4#it-looks-awfulwhich-is-great) about the project, “it looks awful...which is great!”
 
-## License
-
-This Font Software is licensed under the [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL).
 
 ## Links
 
